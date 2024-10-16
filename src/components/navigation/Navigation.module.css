@@ -1,0 +1,30 @@
+ 
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+nav .logo{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    font-size: 1.5rem;
+}
+nav h5 span{
+  display: inline-block;
+}
+
+nav ul li a:hover{
+   color: white;
+   transition: all 0.3s;
+}
+nav ul a{
+    font-weight: 400;
+    color: black;
+    display: inline-block;
+}
