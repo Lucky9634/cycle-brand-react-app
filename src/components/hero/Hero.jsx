@@ -40,7 +40,7 @@ const Hero = () => {
                 <button type="button">Buy it</button>
             </div>
             <div className={styles.rightContainer}>
-                <img src="/public/images/Back.png" alt="Cycle" />
+                <img src="public/images/Back.png" alt="Cycle" />
             </div>
 
         </div>
